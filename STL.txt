@@ -1,0 +1,30 @@
+STL = Containers + Algorithms + Iterators
+
+Containers -> Object which stores data
+Algorithms -> Procedure to process data
+Iterators -> Object which points to a element in a container
+
+
+Container Types:
+- Sequence Containers => Stores data in Linear Fashion (Vector, List, DEqueue)   => Stores in form of a Line
+- Associative Containers => Direct access to Elements (Set, Map, multi set, multi map) => Stores in form of a Tree
+- Derived Containers => Derived from sequence and associative containers => Real World Modelling (Stack, Queue, Priority Queue)
+
+
+When to Use ?
+
+Sequence Containers 
+1. Vector - Random Access = Fast       [like Array]
+            Insertion/Deletion = Slow
+            Insertion at End = Fast
+
+2. List - Random Access = Slow  [like Linked List]
+          Insertion in Middle and End = Fast
+          Deletion in Middle and End = Fast
+
+
+Associative Containers
+- All operations Fast except Random Access    
+
+Derived Containers
+- Deoends on the Data Structure used
