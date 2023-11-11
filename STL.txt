@@ -27,4 +27,4 @@ Associative Containers
 - All operations Fast except Random Access    
 
 Derived Containers
-- Deoends on the Data Structure used
+- Depends on the Data Structure used
