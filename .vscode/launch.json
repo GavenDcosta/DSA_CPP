@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/gaven/OneDrive/Desktop/STL",
-      "program": "c:/Users/gaven/OneDrive/Desktop/STL/build/Debug/outDebug",
+      "cwd": "c:/Users/gaven/OneDrive/Desktop/DSA",
+      "program": "c:/Users/gaven/OneDrive/Desktop/DSA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
