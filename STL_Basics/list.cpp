@@ -1,3 +1,5 @@
+//works as doubly linked list
+
 #include<iostream>
 #include<list>
 using namespace std;
@@ -25,6 +27,15 @@ int main(){
     list1.push_back(21);
     list1.push_back(31);
     list1.push_back(100);
+    list1.push_front(5);
+    list1.push_front(10);
+    list1.push_front(2);
+    list1.push_front(4);
+    list1.push_front(1);
+    list1.push_front(110);
+    list1.push_front(21);
+    list1.push_front(31);
+    list1.push_front(100);
 
     // list<int> :: iterator iter;
     // iter = list1.begin();

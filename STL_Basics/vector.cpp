@@ -44,7 +44,7 @@ int main(){
     displayVector(vect3);
     displayVector(vect4);
    
-    int ele, size, n=5;
+    int ele, size,n=5;
 
     cout<<"Enter the size of the Vector "<<endl;
     cin>>size;
@@ -69,7 +69,10 @@ int main(){
 
     odd_even(vect1);
 
-    
-    
+    cout<<vect1.front()<<endl;
+    cout<<vect1.back()<<endl;
+    cout<<vect1.size()<<endl;
+    cout<<vect1.capacity()<<endl;
+
     return 0;
 }
