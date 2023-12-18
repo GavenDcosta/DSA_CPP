@@ -1,4 +1,4 @@
-//can grow dyncamically
+//can grow dynamically
 
 #include<iostream>
 #include<vector>
