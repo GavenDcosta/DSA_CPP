@@ -1,3 +1,5 @@
+//can grow dyncamically
+
 #include<iostream>
 #include<vector>
 using namespace std;
