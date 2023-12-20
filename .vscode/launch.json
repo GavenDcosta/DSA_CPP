@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/gaven/OneDrive/Desktop/DSA/Sorting",
-      "program": "c:/Users/gaven/OneDrive/Desktop/DSA/Sorting/build/Debug/outDebug",
+      "cwd": "c:/Users/gaven/OneDrive/Desktop/DSA/String_Problems",
+      "program": "c:/Users/gaven/OneDrive/Desktop/DSA/String_Problems/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
